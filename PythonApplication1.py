@@ -15,7 +15,6 @@ sunday = 'Enjoy'
 
 def sec():
     print('A simple program for finding schedule of the day\n')
-    print('Today is Day '+str(day)+' of the week')
 
     if day == 1:
         print('Monday')
